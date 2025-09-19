@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # quota-management
+=======
+# quota-mgmt
+>>>>>>> 45952f6 (Initial clean commit)
 
 This is a Next.js app containing:
 
@@ -14,7 +18,11 @@ This is a Next.js app containing:
 #### Download the template
 
 ```shell
+<<<<<<< HEAD
 pnpm create solana-dapp@latest -t gh:solana-foundation/templates/gill/quota-management
+=======
+pnpm create solana-dapp@latest -t gh:solana-foundation/templates/gill/quota-mgmt
+>>>>>>> 45952f6 (Initial clean commit)
 ```
 
 #### Install Dependencies

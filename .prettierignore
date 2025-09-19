@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .anchor
 .DS_Store
 target
@@ -5,3 +6,21 @@ node_modules
 dist
 build
 test-ledger
+=======
+# Add files here to ignore them from prettier formatting
+/anchor/src/client/js/generated
+/anchor/.anchor
+/anchor/target/debug
+/anchor/target/deploy
+/anchor/target/release
+/anchor/target/sbf-solana-solana
+/anchor/target/test-ledger
+/anchor/target/.rustc_info.json
+/dist
+/coverage
+.next
+/tmp
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+>>>>>>> 45952f6 (Initial clean commit)
